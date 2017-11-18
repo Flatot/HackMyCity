@@ -64,19 +64,19 @@
 				<span class="form_ecr">Nom : YYYYYY</span><br />
 				<span class="form_ecr">Prénom : XXXXXX</span><br />
 				<span class="form_ecr">Date de naissance : JJ/MM/AAAA</span><br />
-				<div class="col-md-6 col-lg-6" style="margin-top: 30px;">
+				</div>
+				<div class="col-md-12 col-lg-12" style="margin-top: 30px;">
 				<span class="form_ecr_ajout" style="font-size: 20px;">Derniers éléments ajoutés:</span><br />
 				<span class="form_ecr_ajout">Passeport : JJ/MM/AAAA</span><br />
 				<span class="form_ecr_ajout">CI : JJ/MM/AAAA</span><br />
 				<span class="form_ecr_ajout">CAF : JJ/MM/AAAA</span><br />
 				</div>
-				<div class="col-md-6 col-lg-6" style="margin-top: 25px;">
+				<div class="col-md-12 col-lg-12" style="margin-top: 25px;">
 				<span class="form_ecr_ajout" style="font-size: 20px;">Derniers éléments mis à jour:</span><br />
 				<span class="form_ecr_ajout">Crous : JJ/MM/AAAA</span><br />
 				<span class="form_ecr_ajout">Bourse d'étude : JJ/MM/AAAA</span><br />
 				<span class="form_ecr_ajout">TCL : JJ/MM/AAAA</span><br />
 				</div>
-			</div>
 			</div>
 			<div class="col-md-6 col-lg-6">
 				<img src="identite.jpg">
