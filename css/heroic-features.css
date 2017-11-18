@@ -1,0 +1,23 @@
+.card {
+  height: 100%;
+}
+
+.flag {
+  background: url(../france.jpg) no-repeat center center fixed;
+  display: table;
+  position: relative;
+  width: 100%;
+  color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.form_ecr {
+	font-size: 25px;
+}
+
+.form_ecr_ajout {
+	font-size: 17px;
+}
